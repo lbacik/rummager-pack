@@ -1,4 +1,11 @@
 
+
+[!] This repository is outdated 
+If you are interested in rummager's development environment please use stack built on docker (link below) instead this one!
+
+https://github.com/lbacik/rummager-pack-docker
+
+
 #Rummager-pack
 
 Directories:
